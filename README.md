@@ -68,35 +68,39 @@ def basic_chatbot():
 if __name__ == "__main__":
     basic_chatbot()
 
+
 ## OUTPUT 
     
-You: hi
+Welcome to the Enhanced Chatbot!
+Type 'bye' to exit.
+
+You: hi 
 
 Bot: Hello there! How can I assist you today?
 
-You: hey
-
-Bot: Hello there! How can I assist you today?
-
-You: hello
-
-Bot: Hello there! How can I assist you today?
-
-You: how are you
+You: how are you 
 
 Bot: I'm doing great, thanks for asking! 
 
-You: what is your name
+You: what is your name 
 
-Bot: Hmm... I didn't understand that. Can you try something else?
+Bot: I'm your friendly chatbot. You can call me Copilot!
 
-You: hi
+You: what can you do
 
-Bot: Hello there! How can I assist you today?
+Bot: I can chat with you, answer simple questions, and keep you company!
 
-You: who created you
+You: what's the weather 
+
+Bot: I can't check live weather yet, but it's always sunny in code land! 
+
+You: who created you 
 
 Bot: I was created by a brilliant developer Miss.shruti Wadettiwar from India.
+
+You: bye
+
+Bot: Goodbye! Have a great day!
 
 
 ## How to Run
