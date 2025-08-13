@@ -68,26 +68,38 @@ def basic_chatbot():
 if __name__ == "__main__":
     basic_chatbot()
 
-
+## OUTPUT 
     
 You: hi
+
 Bot: Hello there! How can I assist you today?
+
 You: hey
+
 Bot: Hello there! How can I assist you today?
+
 You: hello
+
 Bot: Hello there! How can I assist you today?
+
 You: how are you
+
 Bot: I'm doing great, thanks for asking! 
+
 You: what is your name
+
 Bot: Hmm... I didn't understand that. Can you try something else?
-You: & c:/users/shrut/appdata/local/programs/python/python313/python.exe "c:/users/shrut/onedrive/documents/github/codealpha_task3/basic chatboat.py"
-Bot: Hmm... I didn't understand that. Can you try something else?
+
 You: hi
+
 Bot: Hello there! How can I assist you today?
+
 You: who created you
+
 Bot: I was created by a brilliant developer Miss.shruti Wadettiwar from India.
 
-How to Run
+
+## How to Run
 Just execute chatbot.py in your Python environment. Type “bye” to exit the chat.
 
 
