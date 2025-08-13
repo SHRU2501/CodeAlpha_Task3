@@ -21,8 +21,11 @@ File handling for chat logging
 Random module for joke selection
 Easy to run and extend
 
-> import random
+
+
+import random
 responses = {
+
     "how are you": "I'm doing great, thanks for asking! ",
     "what is your name": "I'm your friendly chatbot. You can call me Copilot!",
     "what can you do": "I can chat with you, answer simple questions, and keep you company!",
@@ -30,11 +33,16 @@ responses = {
     "who created you": "I was created by a brilliant developer Miss.shruti Wadettiwar from India.",
     "bye": "Goodbye! Have a great day! "
 }
-greetings = ["hello", "hi", "hey"]
+
+greetings = [
+    "hello", "hi", "hey"
+     
+     ]
 jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "Why did the computer go to therapy? It had too many issues.",
     "Why was the math book sad? It had too many problems."
+    
 ]
 
 def basic_chatbot():
