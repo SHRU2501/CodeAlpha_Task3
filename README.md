@@ -35,9 +35,8 @@ responses = {
 }
 
 greetings = [
-    "hello", "hi", "hey"
-     
-     ]
+    "hello", "hi","hey" 
+    ]
 jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "Why did the computer go to therapy? It had too many issues.",
@@ -68,8 +67,9 @@ def basic_chatbot():
 
 if __name__ == "__main__":
     basic_chatbot()
-You: & c:/users/shrut/appdata/local/programs/python/python313/python.exe "c:/users/shrut/onedrive/documents/github/codealpha_task3/basic chatboat.py"
-Bot: Hmm... I didn't understand that. Can you try something else?
+
+
+    
 You: hi
 Bot: Hello there! How can I assist you today?
 You: hey
