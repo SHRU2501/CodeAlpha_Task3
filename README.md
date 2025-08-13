@@ -21,8 +21,7 @@ File handling for chat logging
 Random module for joke selection
 Easy to run and extend
 
-
-import random
+> import random
 responses = {
     "how are you": "I'm doing great, thanks for asking! ",
     "what is your name": "I'm your friendly chatbot. You can call me Copilot!",
